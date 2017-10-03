@@ -1,6 +1,5 @@
 /* tslint:disable */
 
-
  
 
 module AccordionComponent {
